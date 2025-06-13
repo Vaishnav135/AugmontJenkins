@@ -5,9 +5,6 @@ import java.io.IOException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import Vaishnav.PageObject.GoldPage;
-import Vaishnav.PageObject.LandingPage;
-import Vaishnav.PageObject.PaymentPage;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Standalone {
